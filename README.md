@@ -1,7 +1,7 @@
 # Data Scientist and Behavioral Analysis
 
 #### Technical Skills: Python, R, NLP, Statisitcs Reinforcement Learning, SQL,  MATLAB
-
+<https://www.youtube.com/watch?v=D9CLhQdLp8w   https://github.com/ShawhinT/example-portfolio/tree/main>
 ## Education
 - Ph.D., Psychobiology | Universidade de São Paulo (_Feb 2006_)								       		
 - M.S., Psychobiology	| Universidade de São Paulo (_December 2001_)	 			        		
